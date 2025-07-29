@@ -84,7 +84,7 @@ npm i multer
 ## 📝 Instrução de uso
 1. Abra o localhost:3000<br/>
 2. Faça login<br/>
-3. ...
+3. https://color.adobe.com/pt/search?q=Luxury&t=term
 
 <br/>
 
