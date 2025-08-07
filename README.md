@@ -9,7 +9,7 @@
 
 <br/>
 <p align="center">
-  <img width="700" height="300" src="Logo.png">
+  <img width="500" height="500" src="Logo.png">
 </p>
 
 <br/>
