@@ -9,68 +9,46 @@
 
 <br/>
 <p align="center">
-  <img width="700" height="300" src="">
+  <img width="700" height="300" src="Logo.png">
 </p>
 
 <br/>
-<br/>
 
+## Sobre nós!
 
-Qual é o propósito do projeto?<br/>
-De que forma o projeto contribui?<br/>
-Por que esse projeto é relevante?<br/>
-Como o projeto se diferencia?<br/>
-Quais são os planos futuros?<br/>
-Quem são os responsáveis pelo projeto?<br/>
+<br/> 
 
 
 <br/>
 
 
-## 🤝🏻 Participantes
+## Contribuentes do projéto:
 [1.Guilherme Zamboni Menegacio](  https://github.com/GuilhermeZamboni32) <br/>
-[2.Vitor Danielli de Oliveira](  https://github.com/CafeinaC4) <br/>
-[3.Jonathan Stulp Zoz](  https://github.com/Jow-Sky) <br/>
+[2.Jonathan Stulp Zoz](  https://github.com/Jow-Sky) <br/>
+[3.Théo Pereira dos Santos](  https://github.com/theojouki) <br/>
 [4.Thiago Quadra Arnol](  https://github.com/thpixel-dev) <br/>
-[4.Théo Pereira dos Santos](  https://github.com/theojouki) <br/>
-
-
+[5.Vitor Danielli de Oliveira](  https://github.com/CafeinaC4) <br/>
 <br/>
-
-
-## 📚 Requisitos Funcionais:
-
-###1
-###2
-###3
-###4
-###5
-
-## 💻 Protótipo das tela do Projeto:
-
- 
 
 ## Dependencias necessárias:
 
-### Instalções Frontend
+### Instalções para Frontend
 ```bash
 npm install
 npm install axios
 npm install react-router-dom
-npm install react-icons
 npm install @lottiefiles/react-lottie-player
 ```
 
-### Instalações Backend
+### Instalações para Backend
 
 ```Bash
+npm install
 npm install --save-dev nodemon
 npm install express
 npm install bcrypt
 npm i jsonwebtoken
-npm i helmet
 npm install dotenv --save
-npm i multer
 ```
 
 <br/>
