@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-## 🧾 Descrição
+
 Qual é o propósito do projeto?<br/>
 De que forma o projeto contribui?<br/>
 Por que esse projeto é relevante?<br/>
